@@ -1,3 +1,4 @@
+Original Game: https://github.com/artemshchirov/pydew-valley
 [README.md](https://github.com/user-attachments/files/22164296/README.md)
 # Python 🌾 Pydew Valley 🌾 Pygame
 
@@ -18,34 +19,5 @@ cd pydew-valley
 python code/main.py
 ```
 
-## TODO
-
-- [x] Setup
-- [x] Creating the basic player
-- [x] Importing the player graphics
-- [x] Animating the player
-- [x] Tool use
-- [x] Switching between tools
-- [x] Creating the overlay
-- [x] Starting the camera and importing the floor
-- [x] Importing all elements and faking more 3D
-- [x] Collisions
-- [x] Working on the trees
-- [x] Particles
-- [x] Player inventory
-- [x] Restarting the day
-- [x] Starting the soil
-- [x] Soil patch graphics
-- [x] Watering logic
-- [x] Rain
-- [x] Creating the plants
-- [x] Harvesting
-- [x] Daytime transition
-- [x] The merchant
-- [x] Audio
-
----
-
-- [ ] Save and load game
-- [ ] Nightime
-- [ ] New plant
+Added a GPT-based AI Assistant in game, press TAB to bring up chatbox
+Have Fun!
